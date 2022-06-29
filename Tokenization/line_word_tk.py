@@ -11,7 +11,7 @@ print(len(tokens))
 #------------------------------------------------#
 
 
-print("Now word tokenization...................")
+print("Now word tokenization..................")
 
 tokens1=nltk.word_tokenize(data)
 print(tokens1)
